@@ -19,7 +19,34 @@ header > img {
 li > a{
     color: #3D58A6;
 }
-
+#contactpage{
+    width: 1360px;
+    height: 570px;
+    background: #E6E6E6;
+    margin-top: 21.2px;
+}
+.infobox{
+    display: inline-block;
+    margin-left: 44px;
+    margin-top: 47px;
+    vertical-align: top;
+}
+.infobox > h2{
+    color: #3D58A6;
+    font-size: 20px;
+}
+.infobox  span{
+ color: #808080;
+}
+.googlemap{
+    display: inline-block;
+    margin-top: 52px;
+    margin-left: 86px;
+}
+.googlemap > iframe{
+    width: 874px;
+    height: 466px;
+}
 
 
 
