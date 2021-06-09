@@ -5,12 +5,16 @@
     width:700px;
 }
 .line{
-    border: 1px solid rgb(77, 75, 75);
+    border: 1px solid rgb(102, 100, 100);
     margin-right:5px;
 }
 h2{
     padding-top: 20px;
     padding-left:30px;
+
+}
+.blue{
+    color: rgb(90, 90, 235);
 }
 .image{
     height: 90px;
@@ -20,15 +24,15 @@ h2{
 }
 .txt{
     display:inline-block;
-    width: 240px;
-    padding-left: 30px;
-    padding-bottom: 20px;
+    width: 210px;
+    padding-left: 40px;
+    padding-bottom: 40px;
     padding-right: 20px;
-    
+
     
 }
 .background{
-    background-color: rgb(202, 202, 243);
+    background-color: rgb(227, 227, 243);
     display: inline-block;
     margin-top: 20px;
     margin-left: 30px;
