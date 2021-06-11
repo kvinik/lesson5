@@ -92,6 +92,7 @@ li > a{
     vertical-align: top;
 }
 .infobox > h2{
+    padding-left: 0;
     color: #3D58A6;
     font-size: 20px;
 }
