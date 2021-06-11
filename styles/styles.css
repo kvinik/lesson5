@@ -1,0 +1,110 @@
+.photo{
+    height:400px;
+    margin-left:30px;
+    margin-top:20px;
+    width:700px;
+}
+.line{
+    border: 1px solid rgb(102, 100, 100);
+    margin-right:5px;
+}
+h2{
+    padding-top: 20px;
+    padding-left:30px;
+
+}
+.blue{
+    color: rgb(90, 90, 235);
+}
+.image{
+    height: 90px;
+    margin-left: 20px;
+    margin-top: 15px;
+    
+}
+.txt{
+    display:inline-block;
+    width: 210px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 20px;
+
+    
+}
+.background{
+    background-color: rgb(227, 227, 243);
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+div > h2{
+    padding-left: 20px;
+}
+.beside{
+    margin-left: 30px;
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+.between{
+    border: 1px solid rgb(144, 144, 230);
+    padding-top: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.size{
+    height: 20px;
+}
+.logo{
+    vertical-align: middle;
+}
+.navbar-li{
+    display: inline-block ;
+    margin-left: 18px;
+    font-size: 22px;
+}
+nav{
+    display: inline-block;
+}
+header{
+    margin-left: 30px;
+    margin-top: 30px ;
+}
+.mainpage{
+    color: red;
+}
+header > img {
+    margin-right: 31.8px;
+}
+li > a{
+    color: #3D58A6;
+}
+#contactpage{
+    width: 1360px;
+    height: 570px;
+    background: #E6E6E6;
+    margin-top: 21.2px;
+}
+.infobox{
+    display: inline-block;
+    margin-left: 44px;
+    margin-top: 47px;
+    vertical-align: top;
+}
+.infobox > h2{
+    padding-left: 0;
+    color: #3D58A6;
+    font-size: 20px;
+}
+.infobox  span{
+ color: #808080;
+}
+.googlemap{
+    display: inline-block;
+    margin-top: 52px;
+    margin-left: 86px;
+}
+.googlemap > iframe{
+    width: 874px;
+    height: 466px;
+}
